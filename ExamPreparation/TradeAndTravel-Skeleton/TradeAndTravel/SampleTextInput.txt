@@ -1,0 +1,5 @@
+﻿create location town ultimate
+create item weapon coolweapon ultimate
+create traveller Joro ultimate
+Joro pickup
+Joro inventory

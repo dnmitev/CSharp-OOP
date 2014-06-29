@@ -1,0 +1,1 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\ExtMethodsLambdaExpressionsLinq\StringBuilderSubString\bin\Debug\StringBuilderSubString.exe.config

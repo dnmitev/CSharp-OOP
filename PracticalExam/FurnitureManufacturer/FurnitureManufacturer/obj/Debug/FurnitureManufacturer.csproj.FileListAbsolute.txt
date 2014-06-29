@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\OOPExam\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\OOPExam\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\OOPExam\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\Furnitures.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\OOPExam\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\Furnitures.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\OOPExam\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\Furnitures.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\OOPExam\FurnitureManufacturer\FurnitureManufacturer\obj\Debug\Furnitures.pdb

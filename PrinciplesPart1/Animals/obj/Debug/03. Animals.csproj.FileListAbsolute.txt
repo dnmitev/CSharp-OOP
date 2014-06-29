@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\PrinciplesPart1\Animals\bin\Debug\Animals.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\PrinciplesPart1\Animals\obj\Debug\03. Animals.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\PrinciplesPart1\Animals\bin\Debug\Animals.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\PrinciplesPart1\Animals\bin\Debug\Animals.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\PrinciplesPart1\Animals\obj\Debug\Animals.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\PrinciplesPart1\Animals\obj\Debug\Animals.pdb

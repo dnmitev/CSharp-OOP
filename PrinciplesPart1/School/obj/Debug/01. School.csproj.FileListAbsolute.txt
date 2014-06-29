@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\PrinciplesPart1\School\bin\Debug\School.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\PrinciplesPart1\School\obj\Debug\01. School.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\PrinciplesPart1\School\bin\Debug\School.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\PrinciplesPart1\School\bin\Debug\School.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\PrinciplesPart1\School\obj\Debug\School.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\CSharp-OOP\PrinciplesPart1\School\obj\Debug\School.pdb

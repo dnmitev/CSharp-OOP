@@ -1,0 +1,6 @@
+﻿create giant cecameca (10,10)
+create rock 6 (10,10)
+cecameca gather
+cecameca go (2,2)
+cecameca attack
+end
